@@ -11,7 +11,6 @@ public:
 			result.push_back(2);
 		}
 
-
 		return result;
 
 		//if (number < 2) {
